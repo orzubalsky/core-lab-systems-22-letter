@@ -1,0 +1,16 @@
+{
+  "name": "tns-ftf-scrapper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js --input=./src/letter.txt && json2csv -i output/tns_faculty_contacts.json -o output/tns_faculty_contacts.csv"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "json2csv": "^5.0.7",
+    "minimist": "^1.2.7",
+    "puppeteer": "^19.3.0"
+  }
+}

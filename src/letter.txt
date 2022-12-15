@@ -1,0 +1,125 @@
+
+
+
+END OF SEMESTER LETTER
+----------------------
+Core Lab Systems, Design & Technology BFA
+Parsons School of Design, The New School
+
+December 15, 2023
+Lenapehoking (New York, NY)
+
+
+
+
+Dear Jun, Zelong, Sophie, Rainy, Xiaoxu, Ronny, Yingduo, Krystal, Kiwi, Ray, Soy, Alex, and Saul,
+
+This was an unusual semester.
+It was punctuated by the university's part time faculty going on strike,
+effectively shutting down the university for 25 days.
+
+This happened with the support of many groups:
+students,
+parents,
+full time faculty,
+and many others outside the institution.
+
+
+
+While the part time faculty strike has ended,
+students are now making demands.
+
+Students want:
+To have tuition refunded,
+To have tuition increases frozen,
+To change the governance structure of the university,
+To hold leadership accountable,
+And more.
+
+I am inspired and moved by their/your work in this moment.
+
+
+
+In our class, we learned about web-based systems.
+We thought critically about them.
+We acquired skills to build them.
+
+Right before the strike started,
+we were working on writing node-based js applications.
+Applications that interact with websites across the network.
+
+You didn't get a chance to develop a project using these techniques.
+
+As we end the semester together,
+I wanted to share an example of such a project with you.
+
+
+
+This code generates a file with contact information for all faculty,
+at least all faculty listed on the university website.
+
+
+
+Right before the strike started,
+we had a conversation in class.
+
+We talked about the negotiation process as a system.
+We noted how power is distributed among the actors.
+
+We looked at the digital systems that are at play.
+We noticed that there is a power imbalance around mass communications:
+
+The university leadership can broadcast messages to the entire community.
+Others are unable to do it so easily.
+
+The ability to communicate affects both organizing and messaging.
+
+
+
+This code combs through the faculty directory pages on The New School website.
+This information is publicly available.
+
+
+
+This program gets the individual profile URLs for each person,
+loads that page,
+and gets contact information from it.
+
+All of the data is stored in an object.
+The data is then saved to a JSON file.
+The file is then converted to a CSV file.
+
+This information is publicly available.
+
+
+
+You developed technical fluencies during this semester.
+These skills do not exist in a vacuum.
+
+They can be used for political engagement and collective work.
+They can be used to intervene in how power is distributed.
+
+You can contribute and participate with them.
+
+Especially if you are working towards shared goals with a community you are a part of.
+Especially if you work in coordination with other community members.
+
+
+
+This code generates the means to broadcast a message at scale.
+The way it is used is not neutral.
+
+Who would benefit from it?
+Who should have access to it?
+How can it be used to better the conditions of the community?
+
+
+
+A lot of learning happened this semester.
+Before, during, and after the strike.
+
+I loved getting to know you and your work.
+
+Please stay in touch,
+
+Or
